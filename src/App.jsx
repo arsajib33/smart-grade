@@ -7,7 +7,7 @@ import Footer from './components/Footer'
 
 import Hero from './components/Hero'
 import Nav from './components/Nav'
-import StudentTable from './components/studentTable/StudentTable'
+import StudentTable from './components/student/StudentTable'
 function App() {
 
 
